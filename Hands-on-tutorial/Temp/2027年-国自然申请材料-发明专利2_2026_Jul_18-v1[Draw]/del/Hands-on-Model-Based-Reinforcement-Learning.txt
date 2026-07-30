@@ -1,8 +1,0 @@
-A Model-Based Reinforcement Learning (MBRL) 
-1. Few Data
-
-Video：https://www.youtube.com/watch?v=2o1yrkbpcUk
-Tutorial：https://opendilab.github.io/DI-engine/02_algo/model_based_rl.html
-
-Exercise: https://compneuro.neuromatch.io/tutorials/W3D4_ReinforcementLearning/student/W3D4_Intro.html
-
